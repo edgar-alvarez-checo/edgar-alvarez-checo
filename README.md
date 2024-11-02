@@ -8,7 +8,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/edgar-alvarez-checo?style=social)](https://github.com/edgar-alvarez-checo)
 
-## Sobre mi
+## About me
 
 - ⭐ Github Star ⭐
 - 💻 App Developer
