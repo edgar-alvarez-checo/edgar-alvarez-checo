@@ -33,6 +33,14 @@ I'm always looking for new challenges and opportunities to improve my skills and
   </a>
 </p>
 
+### **Frameworks & Libraries**
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,spring" />
+  </a>
+</p>
+
 ### **Databases**
 
 <p align="left">
