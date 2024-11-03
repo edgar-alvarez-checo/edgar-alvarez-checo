@@ -9,9 +9,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/edgar-alvarez-checo?style=social)](https://github.com/edgar-alvarez-checo)
 
 ## 👨🏻‍💻 About me 
-Soy un apasionado desarrollador web y de aplicaciones de escritorio con una especialización en **Java** y **Python**. Me encanta construir soluciones que combinan eficiencia y creatividad. Tengo experiencia en tecnologías de front-end y back-end, manejando **JavaScript**, **HTML**, **CSS**, **PHP**, **MySQL** y **SQL Server**.
+I am a passionate web and desktop application developer with a specialization in **Java** and **Python**. I love building solutions that combine efficiency and creativity. I have experience in front-end and back-end technologies, handling **JavaScript**, **HTML**, **CSS**, **PHP**, **MySQL** and **SQL Server** .
 
-Siempre estoy en busca de nuevos desafíos y oportunidades para mejorar mis habilidades y contribuir con soluciones **innovadoras**. ¡Estoy aquí para hacer que las ideas cobren vida en código!
+I am always looking for new challenges and opportunities to improve my skills and contribute with **innovative** solutions. I'm here to make ideas come to life in code!
 <br>
 
 ## 📖 Languages
