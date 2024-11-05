@@ -28,33 +28,29 @@ I'm always looking for new challenges and opportunities to improve my skills and
 ### **Languages**
 
 <p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,js,php,html,css" />
-  </a>
+  
 </p>
 
 ### **Frameworks & Libraries**
 
 <p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bootstrap,spring" />
-  </a>
+  
 </p>
 
 ### **Databases**
 
 <p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,sqlserver" />
-  </a>
+
 </p>
 
 ### **Development Tools**
 
 <p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,figma,idea,vscode,linux" />
-  </a>
+
 </p>
 
 ### ⚙️ GitHub Analytics
