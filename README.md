@@ -30,46 +30,58 @@ With a focus on **Java** and **Python**, I've cultivated a diverse set of skills
 
 ---
 
-## 🚀 Technologies & Tools
-
-
-### **Programming Languages**
-<div class="d-flex flex-wrap">
-  <img class="tech-icon" src="https://skillicons.dev/icons?i=java" alt="Java" height="40" style="margin: 0 10px;">
-  <img class="tech-icon" src="https://skillicons.dev/icons?i=py" alt="Python" height="40" style="margin: 0 10px;">
-  <img class="tech-icon" src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40" style="margin: 0 10px;">
-  <img class="tech-icon" src="https://skillicons.dev/icons?i=php" alt="PHP" height="40" style="margin: 0 10px;">
-  <img class="tech-icon" src="https://skillicons.dev/icons?i=html" alt="HTML" height="40" style="margin: 0 10px;">
-  <img class="tech-icon" src="https://skillicons.dev/icons?i=css" alt="CSS" height="40" style="margin: 0 10px;">
-</div>
-
-### **Frameworks & Libraries**
-<div class="d-flex flex-wrap">
-  <img class="tech-icon" src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" height="40" style="margin: 0 10px;">
-  <img class="tech-icon" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="40" style="margin: 0 10px;">
-</div>
-
-### **Databases**
-<div class="d-flex flex-wrap">
-  <img class="tech-icon" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40" style="margin: 0 10px;">
-  <img class="tech-icon" src="https://skillicons.dev/icons?i=sqlserver" alt="SQL Server" height="40" style="margin: 0 10px;">
-</div>
-
-### **Development & Design Tools**
-<div class="d-flex flex-wrap">
-  <img class="tech-icon" src="https://skillicons.dev/icons?i=git" alt="Git" height="40" style="margin: 0 10px;">
-  <img class="tech-icon" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" style="margin: 0 10px;">
-  <img class="tech-icon" src="https://skillicons.dev/icons?i=figma" alt="Figma" height="40" style="margin: 0 10px;">
-  <img class="tech-icon" src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" height="40" style="margin: 0 10px;">
-  <img class="tech-icon" src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="40" style="margin: 0 10px;">
-  <img class="tech-icon" src="https://skillicons.dev/icons?i=linux" alt="Linux" height="40" style="margin: 0 10px;">
-</div>
+<table style="width: 100%; border-collapse: collapse;">
+  <thead>
+    <tr>
+      <th style="text-align: left; padding: 8px; border-bottom: 1px solid #ddd; width: 30%;">Categoría</th>
+      <th style="text-align: left; padding: 8px; border-bottom: 1px solid #ddd; width: 70%;">Tecnologías</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px; border-bottom: 1px solid #ddd; width: 30%;"><strong>Lenguajes de Programación</strong></td>
+      <td style="padding: 8px; border-bottom: 1px solid #ddd; width: 70%;">
+        <img src="https://skillicons.dev/icons?i=java" alt="Java" height="40" style="margin: 0 15px;">
+        <img src="https://skillicons.dev/icons?i=py" alt="Python" height="40" style="margin: 0 15px;">
+        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40" style="margin: 0 15px;">
+        <img src="https://skillicons.dev/icons?i=php" alt="PHP" height="40" style="margin: 0 15px;">
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="40" style="margin: 0 15px;">
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="40" style="margin: 0 15px;">
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border-bottom: 1px solid #ddd; width: 30%;"><strong>Frameworks & Librerías</strong></td>
+      <td style="padding: 8px; border-bottom: 1px solid #ddd; width: 70%;">
+        <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" height="40" style="margin: 0 15px;">
+        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="40" style="margin: 0 15px;">
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border-bottom: 1px solid #ddd; width: 30%;"><strong>Bases de Datos</strong></td>
+      <td style="padding: 8px; border-bottom: 1px solid #ddd; width: 70%;">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40" style="margin: 0 15px;">
+        <img src="https://skillicons.dev/icons?i=sqlserver" alt="SQL Server" height="40" style="margin: 0 15px;">
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border-bottom: 1px solid #ddd; width: 30%;"><strong>Herramientas de Desarrollo y Diseño</strong></td>
+      <td style="padding: 8px; border-bottom: 1px solid #ddd; width: 70%;">
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" height="40" style="margin: 0 15px;">
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" style="margin: 0 15px;">
+        <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="40" style="margin: 0 15px;">
+        <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" height="40" style="margin: 0 15px;">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="40" style="margin: 0 15px;">
+        <img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="40" style="margin: 0 15px;">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<div align="left" style="background-color: #000; padding: 20px; border-radius: 10px;">
+<div align="left"  padding: 20px; border-radius: 10px;">
   <a href="https://github.com/edgar-alvarez-checo">
     <img width="47%" height="200px" src="https://github-readme-stats.vercel.app/api?username=edgar-alvarez-checo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   </a>
