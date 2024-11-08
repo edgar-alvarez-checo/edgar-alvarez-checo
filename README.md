@@ -44,7 +44,6 @@ With a focus on **Java** and **Python**, I've cultivated a diverse set of skills
         <img src="https://skillicons.dev/icons?i=java" alt="Java" height="40" style="margin: 0 15px;">
         <img src="https://skillicons.dev/icons?i=py" alt="Python" height="40" style="margin: 0 15px;">
         <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40" style="margin: 0 15px;">
-        <img src="https://skillicons.dev/icons?i=php" alt="PHP" height="40" style="margin: 0 15px;">
         <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="40" style="margin: 0 15px;">
         <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="40" style="margin: 0 15px;">
       </td>
@@ -54,6 +53,8 @@ With a focus on **Java** and **Python**, I've cultivated a diverse set of skills
       <td style="padding: 8px; border-bottom: 1px solid #ddd; width: 70%;">
         <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" height="40" style="margin: 0 15px;">
         <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="40" style="margin: 0 15px;">
+        <img src="https://skillicons.dev/icons?i=react" alt="React" height="40" style="margin: 0 15px;">
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" height="40" style="margin: 0 15px;">
       </td>
     </tr>
     <tr>
