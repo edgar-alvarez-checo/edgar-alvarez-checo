@@ -1,13 +1,12 @@
 <div align="center">
-  <h1 align="center">Hello, I'm Edgar Al.Dev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  <h1 align="center">Hola, soy Edgar Alvarez – Backend Engineer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </div>
 
 <div align="center">
   <img width="1050" alt="banner git" src="https://github.com/user-attachments/assets/0ae9b11e-b422-4fcb-a906-760fb5581e05">
-  
 </div>
 
-<p>
+<p align="center">
   <a href="https://github.com/edgar-alvarez-checo">
     <img src="https://komarev.com/ghpvc/?username=edgar-alvarez-checo&color=blueviolet&style=for-the-badge" alt="profile views"/>
   </a>
@@ -16,97 +15,52 @@
   </a>
 </p>
 
-🌌 **Code Explorer & Idea Architect**
+🌌 **Backend Engineer & Full Stack Enthusiast**
 
 ---
 
-💻 **`< Innovator />`** • 🎨 **`{ Creator }`** • 🚀 **`[ Problem Solver ]`**
-
-I'm **Edgar Alvarez**, a creative developer dedicated to building powerful web and desktop applications that blend technical skill with artistic flair. Coding for me is more than just a job; it's a way to transform **concepts into experiences** and **ideas into impactful solutions**. My projects reflect a balance of **efficiency, creativity, and purpose**.
+💻 **`< Arquitecto de Soluciones />`** • 🚀 **`[ Diseñador de Sistemas Escalables ]`** • 🎨 **`{ Apasionado por la Innovación }`**
 
 ---
 
 ## 👨🏻‍💻 Who Am I?
-With a focus on **Java**, I've cultivated a diverse set of skills that span front-end and back-end development. My toolkit includes **JavaScript**, **HTML**, **CSS**, **MySQL**, and **SQL Server**, allowing me to craft solutions that are not just functional but also intuitive and visually engaging. I'm always on the hunt for challenges that push my boundaries and opportunities to create **innovative applications**.
+
+Soy **Edgar Alvarez**, Backend Engineer con experiencia en el desarrollo de aplicaciones robustas y escalables, apasionado por las arquitecturas modernas, patrones de diseño y la integración de buenas prácticas como documentación con Swagger, testing con Jest, y despliegue con Docker. Mi stack principal incluye Java (Spring Boot), Node.js (Express), y también manejo tecnologías frontend como Next.js y Tailwind, permitiéndome abordar proyectos de manera integral.
 
 ---
 
-<table style="width: 100%; border-collapse: collapse;">
-  <thead>
-    <tr>
-      <th style="text-align: left; padding: 8px; border-bottom: 1px solid #ddd; width: 30%;">Categoría</th>
-      <th style="text-align: left; padding: 8px; border-bottom: 1px solid #ddd; width: 70%;">Tecnologías</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding: 8px; border-bottom: 1px solid #ddd; width: 30%;"><strong>Lenguajes de Programación</strong></td>
-      <td style="padding: 8px; border-bottom: 1px solid #ddd; width: 70%;">
-        <img src="https://skillicons.dev/icons?i=java" alt="Java" height="40" style="margin: 0 15px;">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="JavaScrip" height="40" style="margin: 0 15px;">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="40" style="margin: 0 15px;">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="40" style="margin: 0 15px;">
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border-bottom: 1px solid #ddd; width: 30%;"><strong>Frameworks & Librerías</strong></td>
-      <td style="padding: 8px; border-bottom: 1px solid #ddd; width: 70%;">
-        <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" height="40" style="margin: 0 15px;">
-        <img src="https://skillicons.dev/icons?i=express" alt="Express" height="40" style="margin: 0 15px;">
-        <img src="https://skillicons.dev/icons?i=next" alt="Next" height="40" style="margin: 0 15px;">
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" height="40" style="margin: 0 15px;">
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border-bottom: 1px solid #ddd; width: 30%;"><strong>Bases de Datos</strong></td>
-      <td style="padding: 8px; border-bottom: 1px solid #ddd; width: 70%;">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40" style="margin: 0 15px;">
-        <img src="https://skillicons.dev/icons?i=postgresql" alt="Postgresql" height="40" style="margin: 0 15px;">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="40" style="margin: 0 15px;">
-        <img src="https://skillicons.dev/icons?i=redis" alt="Redis" height="40" style="margin: 0 15px;">
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border-bottom: 1px solid #ddd; width: 30%;"><strong>Herramientas de Desarrollo y Diseño</strong></td>
-      <td style="padding: 8px; border-bottom: 1px solid #ddd; width: 70%;">
-        <img src="https://skillicons.dev/icons?i=git" alt="Git" height="40" style="margin: 0 15px;">
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" style="margin: 0 15px;">
-        <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="40" style="margin: 0 15px;">
-        <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" height="40" style="margin: 0 15px;">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="40" style="margin: 0 15px;">
-      </td>
-    </tr>
-  </tbody>
-</table>
+### 🛠️ Tecnologías & Herramientas
+
+| Categoría | Tecnologías |
+|-----------|-------------|
+| **Lenguajes de Programación** | <img src="https://skillicons.dev/icons?i=java,nodejs,html,css" height="40"> |
+| **Frameworks & Librerías** | <img src="https://skillicons.dev/icons?i=spring,express,next,tailwind" height="40"> |
+| **Bases de Datos** | <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" height="40"> |
+| **Testing** | <img src="https://skillicons.dev/icons?i=jest" height="40">  |
+| **Contenedores & DevOps** | <img src="https://skillicons.dev/icons?i=docker,git,github" height="40"> |
+| **Herramientas de Desarrollo** | <img src="https://skillicons.dev/icons?i=figma,idea,vscode" height="40"> |
 
 ---
 
-## 📊 GitHub Analytics
+## 🏛️ Arquitectura & Buenas Prácticas
 
-<div align="left"  padding: 20px; border-radius: 10px;">
-  <a href="https://github.com/edgar-alvarez-checo">
-    <img width="47%" height="200px" src="https://github-readme-stats.vercel.app/api?username=edgar-alvarez-checo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/edgar-alvarez-checo">
-    <img width="49.5%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=edgar-alvarez-checo&theme=github_dark" alt="GitHub Streak"/>
-  </a>
-</div>
+- Diseño e implementación de arquitecturas escalables (MVC, REST, Microservicios)
+- Aplicación de patrones de diseño (Singleton, Factory, Repository, etc.)
+- Documentación de APIs con Swagger/OpenAPI
+- Testing automatizado con Jest
 
 ---
 
-## 🌱 Lifelong Learner
-Driven by curiosity and a passion for **emerging technologies**, I continuously explore new frameworks, design patterns, and innovations in software development. My ultimate goal is to **integrate creativity and performance** into every line of code, making each project a step forward in both technical skill and artistic vision.
+## 🚀 Siempre Aprendiendo
+
+Motivado por la curiosidad y la mejora continua, siempre exploro nuevas tecnologías y metodologías para ofrecer soluciones robustas y modernas.
 
 ---
 
-### 🤝 Connect with Me!
+### 🤝 ¡Conecta conmigo!
 
 [![Email](https://img.shields.io/badge/Email-edgaralvarez0227%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edgaralvarez0227@gmail.com)
 
 ---
 
-> 🌠 _"Every line of code is a step closer to innovation and creativity."_ - **Edgar Álvarez**
-
-<div align="center">
-  <h3>Thank you for visiting my GitHub! Feel free to explore my repositories, and let's make code that changes the world! 🌍</h3>
-</div>
+> 🌠 _"Cada línea de código es un paso más hacia la innovación."_ – **Edgar Álvarez**
