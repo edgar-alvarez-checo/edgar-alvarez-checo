@@ -22,12 +22,12 @@
 
 💻 **`< Innovator />`** • 🎨 **`{ Creator }`** • 🚀 **`[ Problem Solver ]`**
 
-I'm **Edgar Álvarez**, a creative developer dedicated to building powerful web and desktop applications that blend technical skill with artistic flair. Coding for me is more than just a job; it's a way to transform **concepts into experiences** and **ideas into impactful solutions**. My projects reflect a balance of **efficiency, creativity, and purpose**.
+I'm **Edgar Alvarez**, a creative developer dedicated to building powerful web and desktop applications that blend technical skill with artistic flair. Coding for me is more than just a job; it's a way to transform **concepts into experiences** and **ideas into impactful solutions**. My projects reflect a balance of **efficiency, creativity, and purpose**.
 
 ---
 
 ## 👨🏻‍💻 Who Am I?
-With a focus on **Java** and **Python**, I've cultivated a diverse set of skills that span front-end and back-end development. My toolkit includes **JavaScript**, **HTML**, **CSS**, **PHP**, **MySQL**, and **SQL Server**, allowing me to craft solutions that are not just functional but also intuitive and visually engaging. I'm always on the hunt for challenges that push my boundaries and opportunities to create **innovative applications**.
+With a focus on **Java**, I've cultivated a diverse set of skills that span front-end and back-end development. My toolkit includes **JavaScript**, **HTML**, **CSS**, **MySQL**, and **SQL Server**, allowing me to craft solutions that are not just functional but also intuitive and visually engaging. I'm always on the hunt for challenges that push my boundaries and opportunities to create **innovative applications**.
 
 ---
 
@@ -43,8 +43,7 @@ With a focus on **Java** and **Python**, I've cultivated a diverse set of skills
       <td style="padding: 8px; border-bottom: 1px solid #ddd; width: 30%;"><strong>Lenguajes de Programación</strong></td>
       <td style="padding: 8px; border-bottom: 1px solid #ddd; width: 70%;">
         <img src="https://skillicons.dev/icons?i=java" alt="Java" height="40" style="margin: 0 15px;">
-        <img src="https://skillicons.dev/icons?i=py" alt="Python" height="40" style="margin: 0 15px;">
-        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40" style="margin: 0 15px;">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="JavaScrip" height="40" style="margin: 0 15px;">
         <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="40" style="margin: 0 15px;">
         <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="40" style="margin: 0 15px;">
       </td>
@@ -53,8 +52,8 @@ With a focus on **Java** and **Python**, I've cultivated a diverse set of skills
       <td style="padding: 8px; border-bottom: 1px solid #ddd; width: 30%;"><strong>Frameworks & Librerías</strong></td>
       <td style="padding: 8px; border-bottom: 1px solid #ddd; width: 70%;">
         <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" height="40" style="margin: 0 15px;">
-        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="40" style="margin: 0 15px;">
-        <img src="https://skillicons.dev/icons?i=react" alt="React" height="40" style="margin: 0 15px;">
+        <img src="https://skillicons.dev/icons?i=express" alt="Express" height="40" style="margin: 0 15px;">
+        <img src="https://skillicons.dev/icons?i=next" alt="Next" height="40" style="margin: 0 15px;">
         <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" height="40" style="margin: 0 15px;">
       </td>
     </tr>
@@ -62,7 +61,9 @@ With a focus on **Java** and **Python**, I've cultivated a diverse set of skills
       <td style="padding: 8px; border-bottom: 1px solid #ddd; width: 30%;"><strong>Bases de Datos</strong></td>
       <td style="padding: 8px; border-bottom: 1px solid #ddd; width: 70%;">
         <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40" style="margin: 0 15px;">
-        <img src="https://skillicons.dev/icons?i=sqlserver" alt="SQL Server" height="40" style="margin: 0 15px;">
+        <img src="https://skillicons.dev/icons?i=postgresql" alt="Postgresql" height="40" style="margin: 0 15px;">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="40" style="margin: 0 15px;">
+        <img src="https://skillicons.dev/icons?i=redis" alt="Redis" height="40" style="margin: 0 15px;">
       </td>
     </tr>
     <tr>
@@ -73,7 +74,6 @@ With a focus on **Java** and **Python**, I've cultivated a diverse set of skills
         <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="40" style="margin: 0 15px;">
         <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" height="40" style="margin: 0 15px;">
         <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="40" style="margin: 0 15px;">
-        <img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="40" style="margin: 0 15px;">
       </td>
     </tr>
   </tbody>
