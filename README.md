@@ -31,7 +31,7 @@ I’m **Edgar Álvarez**, a backend developer passionate about building scalable
 |:---------------------:|:--------------------------------------------:|:-------------------------------------|
 | 📝 **Languages**        | Java · TypeScript · Node.js · HTML · CSS     | Strong typing, web versatility        |
 | 🧩 **Frameworks**       | Spring Boot · Express · Next.js              | Robust backend & modern SSR          |
-| 💾 **Databases**        | MySQL · MongoDB · PostgreSQL · Redis         | SQL, NoSQL, caching                   |
+| 💾 **Databases**        | MySQL · MongoDB · PostgreSQL · SQL Server · Redis         | SQL, NoSQL, caching                   |
 | 🧪 **Testing & Docs**   | Jest · Swagger                               | Unit testing & API documentation      |
 | ⚙️ **DevOps & Git**      | Docker · Git · GitHub                        | Containerization & CI/CD              |
 | 🌐 **Hosting & Deploy** | Vercel · Render · Neon                       | Fast, scalable deployment             |
