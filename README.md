@@ -31,9 +31,9 @@ I’m **Edgar Álvarez**, a backend developer passionate about building scalable
 |:---------------------:|:--------------------------------------------:|:-------------------------------------|
 | 📝 **Languages**        | Java · TypeScript · Node.js · HTML · CSS     | Strong typing, web versatility        |
 | 🧩 **Frameworks**       | Spring Boot · Express · Next.js              | Robust backend & modern SSR          |
-| 💾 **Databases**        | MySQL · MongoDB · PostgreSQL · SQL Server         | SQL, NoSQL                  |
-| 🧪 **Testing & Docs**   | Jest · Swagger                               | Unit testing & API documentation      |
-| ⚙️ **DevOps & Git**      | Docker · Git · GitHub                        | Containerization & CI/CD              |
+| 💾 **Databases**        | MySQL · PostgreSQL · SQL Server         | SQL               |
+| 🧪 **Testing & Docs**   | Jest                          | Unit testing & API documentation      |
+| ⚙️ **DevOps & Git**      | Git · GitHub                        | Containerization & CI/CD              |
 | 🌐 **Hosting & Deploy** | Vercel · Render · Neon                       | Fast, scalable deployment             |
 | 🎨 **UI & Design**      | Tailwind · Figma                             | Modern UI and collaborative design    |
 
@@ -43,7 +43,6 @@ I’m **Edgar Álvarez**, a backend developer passionate about building scalable
 
 - 🔐 Advanced authentication: JWT, OAuth, secure cookies  
 - 🧩 Microservices architecture with Spring Boot  
-- ⚒️ CI/CD automation using **GitHub Actions**  
 - 💡 Best practices with **Next.js** and TypeScript  
 - ✏️ Clean and intuitive UX design using **Figma**
 
@@ -51,7 +50,7 @@ I’m **Edgar Álvarez**, a backend developer passionate about building scalable
 
 ## 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-edgaralvarez0227%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:edgaralvarez0227@gmail.com)
+[![Email](https://img.shields.io/badge/Email-edgar.alvarez.dev%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:edgar.alvarez.dev@gmail.com)
 
 ---
 
