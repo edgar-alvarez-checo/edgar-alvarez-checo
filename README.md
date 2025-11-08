@@ -54,7 +54,7 @@ I specialize in **Java, C#, TypeScript, Node.js, and Spring Boot**, combining cl
   — <strong>Edgar Álvarez</strong>
 </p>
 ## 🧩 Latest Public Repositories
-- [edgar-alvarez-checo](https://github.com/edgar-alvarez-checo/edgar-alvarez-checo) — 🌟 4 stars — 🕒 Updated 2025-11-08T19:57:10Z
+- [edgar-alvarez-checo](https://github.com/edgar-alvarez-checo/edgar-alvarez-checo) — 🌟 4 stars — 🕒 Updated 2025-11-08T19:57:55Z
 - [Inventory-management](https://github.com/edgar-alvarez-checo/Inventory-management) — 🌟 0 stars — 🕒 Updated 2025-11-08T19:14:50Z
 - [practica-git](https://github.com/edgar-alvarez-checo/practica-git) — 🌟 0 stars — 🕒 Updated 2025-10-25T16:20:59Z
 - [test](https://github.com/edgar-alvarez-checo/test) — 🌟 0 stars — 🕒 Updated 2025-10-23T15:52:55Z
