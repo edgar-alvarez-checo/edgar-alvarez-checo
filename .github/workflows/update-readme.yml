@@ -11,6 +11,7 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -18,8 +19,21 @@ jobs:
       - name: Fetch latest public repos
         run: |
           echo "## 🧩 Latest Public Repositories" > latest_repos.md
+          echo "" >> latest_repos.md
+          echo "<div align='left'>" >> latest_repos.md
+          echo "" >> latest_repos.md
+
           curl -s "https://api.github.com/users/edgar-alvarez-checo/repos?per_page=5&sort=updated" | \
-          jq -r '.[] | "- [\(.name)](\(.html_url)) — 🌟 \(.stargazers_count) stars — 🕒 Updated \(.updated_at)"' >> latest_repos.md
+          jq -r '.[] | 
+            "<details>
+            <summary><b>🔹 [\(.name)](\(.html_url))</b></summary>
+            <p>📝 \(.description // "No description")</p>
+            <p>⭐ Stars: \(.stargazers_count) &nbsp;&nbsp;💻 Language: \(.language // "Unknown") &nbsp;&nbsp;🕒 Updated: \(.updated_at[0:10])</p>
+            </details>
+            "' >> latest_repos.md
+
+          echo "" >> latest_repos.md
+          echo "</div>" >> latest_repos.md
 
       - name: Update README
         run: |
@@ -31,5 +45,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "🔁 Auto-update latest public repos" || exit 0
+          git commit -m "🎨 Improved format for latest repos" || exit 0
           git push
