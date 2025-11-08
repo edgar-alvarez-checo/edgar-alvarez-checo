@@ -1,38 +1,35 @@
-name: 🔁 Update Latest GitHub Repos in README
+name: Update README with latest repos
+
+permissions:
+  contents: write
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Cada 12 horas
-  workflow_dispatch:        # Permite ejecución manual
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-
     steps:
-      - name: 📦 Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: 🧠 Fetch latest public repos
-        id: fetch
+      - name: Fetch latest public repos
         run: |
-          curl -s "https://api.github.com/users/edgar-alvarez-checo/repos?per_page=5&sort=updated" \
-          | jq -r '.[] | "- [\(.name)](\(.html_url)) — \(.description // "No description")"' > repos.md
+          echo "## 🧩 Latest Public Repositories" > latest_repos.md
+          curl -s "https://api.github.com/users/edgar-alvarez-checo/repos?per_page=5&sort=updated" | \
+          jq -r '.[] | "- [\(.name)](\(.html_url)) — 🌟 \(.stargazers_count) stars — 🕒 Updated \(.updated_at)"' >> latest_repos.md
 
-      - name: 🪄 Update README section
+      - name: Update README
         run: |
-          # Elimina contenido viejo entre los marcadores
-          sed -i '/<!--REPOS_START-->/,/<!--REPOS_END-->/{
-            /<!--REPOS_START-->/!{/<!--REPOS_END-->/!d}
-          }' README.md
+          sed -i '/## 🧩 Latest Public Repositories/,$d' README.md
+          cat latest_repos.md >> README.md
 
-          # Inserta nuevo contenido
-          awk '/<!--REPOS_START-->/ {print; system("cat repos.md"); next}1' README.md > temp.md && mv temp.md README.md
-
-      - name: 💾 Commit & Push changes
+      - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "🔁 Auto-update latest public repos"
+          git commit -m "🔁 Auto-update latest public repos" || exit 0
           git push
