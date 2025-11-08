@@ -1,0 +1,38 @@
+name: 🔁 Update Latest GitHub Repos in README
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Cada 12 horas
+  workflow_dispatch:        # Permite ejecución manual
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📦 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🧠 Fetch latest public repos
+        id: fetch
+        run: |
+          curl -s "https://api.github.com/users/edgar-alvarez-checo/repos?per_page=5&sort=updated" \
+          | jq -r '.[] | "- [\(.name)](\(.html_url)) — \(.description // "No description")"' > repos.md
+
+      - name: 🪄 Update README section
+        run: |
+          # Elimina contenido viejo entre los marcadores
+          sed -i '/<!--REPOS_START-->/,/<!--REPOS_END-->/{
+            /<!--REPOS_START-->/!{/<!--REPOS_END-->/!d}
+          }' README.md
+
+          # Inserta nuevo contenido
+          awk '/<!--REPOS_START-->/ {print; system("cat repos.md"); next}1' README.md > temp.md && mv temp.md README.md
+
+      - name: 💾 Commit & Push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "🔁 Auto-update latest public repos"
+          git push
