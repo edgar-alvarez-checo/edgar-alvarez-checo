@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer | Full Stack Enthusiast</h3>
 
 <p align="center">
-  <img width="1050" alt="GitHub Banner" src="https://github.com/user-attachments/assets/0ae9b11e-b422-4fcb-a906-760fb5581e05" />
+  <img width="3000" height="1055" alt="Image" src="https://github.com/user-attachments/assets/ca6406c7-85be-44ee-83c2-564d482297a5" />
 </p>
 
 <p align="center">
@@ -40,14 +40,8 @@ I specialize in **Java, C#, TypeScript, Node.js, and Spring Boot**, combining cl
 | 🎨 **UI & Design** | Tailwind · Figma | Clean, responsive, and creative interfaces |
 
 ---
-
-## 🚧 Currently Learning
-
-- ☁️ **Microservices** and **Cloud Architecture** with Spring Boot  
-- 🔐 **Secure Authentication** (JWT, OAuth 2.0, Cookies)  
-- 🧩 **Clean Architecture & Domain-Driven Design** in enterprise systems
-
----
+<!--REPOS_START-->
+<!--REPOS_END-->
 
 ## 📫 Contact
 
