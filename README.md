@@ -42,20 +42,14 @@ I specialize in **Java, C#, TypeScript, Node.js, and Spring Boot**, combining cl
 ---
 
 ## 🧩 Latest Public Repositories
-- [edgar-alvarez-checo](https://github.com/edgar-alvarez-checo/edgar-alvarez-checo) — 🌟 4 stars — 🕒 Updated 2025-11-08T19:57:55Z
-- [Inventory-management](https://github.com/edgar-alvarez-checo/Inventory-management) — 🌟 0 stars — 🕒 Updated 2025-11-08T19:14:50Z
-- [practica-git](https://github.com/edgar-alvarez-checo/practica-git) — 🌟 0 stars — 🕒 Updated 2025-10-25T16:20:59Z
-- [test](https://github.com/edgar-alvarez-checo/test) — 🌟 0 stars — 🕒 Updated 2025-10-23T15:52:55Z
-- [Inventory-management-frontend](https://github.com/edgar-alvarez-checo/Inventory-management-frontend) — 🌟 0 stars — 🕒 Updated 2025-10-14T05:14:34Z
 
----
-## 📫 Contact
+<div align='left'>
 
-[![Email](https://img.shields.io/badge/Email-edgar.alvarez.dev%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:edgar.alvarez.dev@gmail.com)
+<details>
+  <summary><b>🔹 [edgar-alvarez-checo](https://github.com/edgar-alvarez-checo/edgar-alvarez-checo)</b></summary>
+  <p>📝 No description</p>
+  <p>⭐ Stars: 4 &nbsp;&nbsp;💻 Language: Unknown &nbsp;&nbsp;🕒 Updated: 2025-11-08</p>
+  </details>
+  
 
----
-
-<p align="center">
-  <em>🌠 “Each line of code brings me closer to innovation.”</em><br>
-  — <strong>Edgar Alvarez</strong>
-</p>
+</div>
