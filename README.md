@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m Edgar Álvarez</h1>
+<h1 align="center">👋 Hi, I’m Edgar Alvarez</h1>
 <h3 align="center">Backend Developer | Full Stack Enthusiast</h3>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## 🧑‍💻 About Me
 
-I’m **Edgar Álvarez**, a passionate **Backend Developer** focused on building scalable, secure, and high-performance systems.  
+I’m **Edgar Alvarez**, a passionate **Backend Developer** focused on building scalable, secure, and high-performance systems.  
 I specialize in **Java, C#, TypeScript, Node.js, and Spring Boot**, combining clean architecture with automation and modern DevOps practices.
 
 - 🚀 Experience deploying backends on **Render**, frontends on **Vercel**, and databases on **Neon**.  
@@ -57,5 +57,5 @@ I specialize in **Java, C#, TypeScript, Node.js, and Spring Boot**, combining cl
 
 <p align="center">
   <em>🌠 “Each line of code brings me closer to innovation.”</em><br>
-  — <strong>Edgar Álvarez</strong>
+  — <strong>Edgar Alvarez</strong>
 </p>
