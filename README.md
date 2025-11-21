@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Edgar Alvarez</h1>
-<h3 align="center">Backend Developer | Full Stack Enthusiast</h3>
+<h3 align="center">Backend Developer || Full Stack Enthusiast</h3>
 
 <p align="center">
   <img width="3000" height="1055" alt="Image" src="https://github.com/user-attachments/assets/ca6406c7-85be-44ee-83c2-564d482297a5" />
