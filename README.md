@@ -46,13 +46,13 @@ I specialize in **Java, C#, TypeScript, Node.js, and Spring Boot**, combining cl
 <div align='left'>
 
 <details>
-  <summary><b>🔹 [frontendcheckint](https://github.com/edgar-alvarez-checo/frontendcheckint)</b></summary>
+  <summary><b>🔹 [backendCheckint](https://github.com/edgar-alvarez-checo/backendCheckint)</b></summary>
   <p>📝 No description</p>
   <p>⭐ Stars: 0 &nbsp;&nbsp;💻 Language: TypeScript &nbsp;&nbsp;🕒 Updated: 2025-11-26</p>
   </details>
   
 <details>
-  <summary><b>🔹 [backendCheckint](https://github.com/edgar-alvarez-checo/backendCheckint)</b></summary>
+  <summary><b>🔹 [frontendcheckint](https://github.com/edgar-alvarez-checo/frontendcheckint)</b></summary>
   <p>📝 No description</p>
   <p>⭐ Stars: 0 &nbsp;&nbsp;💻 Language: TypeScript &nbsp;&nbsp;🕒 Updated: 2025-11-26</p>
   </details>
@@ -60,7 +60,7 @@ I specialize in **Java, C#, TypeScript, Node.js, and Spring Boot**, combining cl
 <details>
   <summary><b>🔹 [edgar-alvarez-checo](https://github.com/edgar-alvarez-checo/edgar-alvarez-checo)</b></summary>
   <p>📝 No description</p>
-  <p>⭐ Stars: 3 &nbsp;&nbsp;💻 Language: Unknown &nbsp;&nbsp;🕒 Updated: 2025-11-21</p>
+  <p>⭐ Stars: 3 &nbsp;&nbsp;💻 Language: Unknown &nbsp;&nbsp;🕒 Updated: 2025-11-26</p>
   </details>
   
 
