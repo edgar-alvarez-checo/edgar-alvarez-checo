@@ -46,15 +46,15 @@ I specialize in **Java, C#, TypeScript, Node.js, and Spring Boot**, combining cl
 <div align='left'>
 
 <details>
-  <summary><b>🔹 [Inventory-management](https://github.com/edgar-alvarez-checo/Inventory-management)</b></summary>
+  <summary><b>🔹 [edgar-alvarez-checo](https://github.com/edgar-alvarez-checo/edgar-alvarez-checo)</b></summary>
   <p>📝 No description</p>
-  <p>⭐ Stars: 0 &nbsp;&nbsp;💻 Language: JavaScript &nbsp;&nbsp;🕒 Updated: 2025-12-16</p>
+  <p>⭐ Stars: 3 &nbsp;&nbsp;💻 Language: Unknown &nbsp;&nbsp;🕒 Updated: 2025-12-16</p>
   </details>
   
 <details>
-  <summary><b>🔹 [edgar-alvarez-checo](https://github.com/edgar-alvarez-checo/edgar-alvarez-checo)</b></summary>
+  <summary><b>🔹 [Inventory-management](https://github.com/edgar-alvarez-checo/Inventory-management)</b></summary>
   <p>📝 No description</p>
-  <p>⭐ Stars: 3 &nbsp;&nbsp;💻 Language: Unknown &nbsp;&nbsp;🕒 Updated: 2025-12-13</p>
+  <p>⭐ Stars: 0 &nbsp;&nbsp;💻 Language: JavaScript &nbsp;&nbsp;🕒 Updated: 2025-12-16</p>
   </details>
   
 <details>
