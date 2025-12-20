@@ -35,7 +35,7 @@ I specialize in **Java, C#, TypeScript, Node.js, and Spring Boot**, combining cl
 | 🧩 **Frameworks** | Spring Boot · Express · ASP.NET · Blazor | Robust backend and full stack tools |
 | 💾 **Databases** | MySQL · PostgreSQL · SQL Server | Relational database expertise |
 | 🧪 **Testing** | Jest · xUnit / NUnit | Unit testing and reliability assurance |
-| ⚙ **DevOps & CI/CD** | Git · GitHub · GitHub Actions · Jenkins · Azure Functions | Automation, pipelines, and integration |
+| ⚙ **DevOps & CI/CD** | Git · GitHub · GitHub Actions | Automation, pipelines, and integration |
 | 🌐 **Hosting & Deploy** | Vercel · Render · Neon | Modern cloud deployment platforms |
 | 🎨 **UI & Design** | Tailwind · Figma | Clean, responsive, and creative interfaces |
 
