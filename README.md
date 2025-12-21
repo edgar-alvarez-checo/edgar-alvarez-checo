@@ -46,15 +46,15 @@ I specialize in **Java, C#, TypeScript, Node.js, and Spring Boot**, combining cl
 <div align='left'>
 
 <details>
-  <summary><b>🔹 [SmartFactory](https://github.com/edgar-alvarez-checo/SmartFactory)</b></summary>
+  <summary><b>🔹 [edgar-alvarez-checo](https://github.com/edgar-alvarez-checo/edgar-alvarez-checo)</b></summary>
   <p>📝 No description</p>
-  <p>⭐ Stars: 0 &nbsp;&nbsp;💻 Language: C# &nbsp;&nbsp;🕒 Updated: 2025-12-20</p>
+  <p>⭐ Stars: 3 &nbsp;&nbsp;💻 Language: Unknown &nbsp;&nbsp;🕒 Updated: 2025-12-21</p>
   </details>
   
 <details>
-  <summary><b>🔹 [edgar-alvarez-checo](https://github.com/edgar-alvarez-checo/edgar-alvarez-checo)</b></summary>
+  <summary><b>🔹 [SmartFactory](https://github.com/edgar-alvarez-checo/SmartFactory)</b></summary>
   <p>📝 No description</p>
-  <p>⭐ Stars: 3 &nbsp;&nbsp;💻 Language: Unknown &nbsp;&nbsp;🕒 Updated: 2025-12-20</p>
+  <p>⭐ Stars: 0 &nbsp;&nbsp;💻 Language: C# &nbsp;&nbsp;🕒 Updated: 2025-12-20</p>
   </details>
   
 
