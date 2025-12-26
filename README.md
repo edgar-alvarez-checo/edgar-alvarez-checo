@@ -51,11 +51,5 @@ I specialize in **Java, C#, TypeScript, Node.js, and Spring Boot**, combining cl
   <p>⭐ Stars: 3 &nbsp;&nbsp;💻 Language: Unknown &nbsp;&nbsp;🕒 Updated: 2025-12-21</p>
   </details>
   
-<details>
-  <summary><b>🔹 [SmartFactory](https://github.com/edgar-alvarez-checo/SmartFactory)</b></summary>
-  <p>📝 No description</p>
-  <p>⭐ Stars: 0 &nbsp;&nbsp;💻 Language: C# &nbsp;&nbsp;🕒 Updated: 2025-12-20</p>
-  </details>
-  
 
 </div>
