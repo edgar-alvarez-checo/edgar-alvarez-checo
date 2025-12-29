@@ -46,6 +46,12 @@ I specialize in **Java, C#, TypeScript, Node.js, and Spring Boot**, combining cl
 <div align='left'>
 
 <details>
+  <summary><b>🔹 [ZeroMQ-MT5](https://github.com/edgar-alvarez-checo/ZeroMQ-MT5)</b></summary>
+  <p>📝 No description</p>
+  <p>⭐ Stars: 0 &nbsp;&nbsp;💻 Language: MQL5 &nbsp;&nbsp;🕒 Updated: 2025-12-29</p>
+  </details>
+  
+<details>
   <summary><b>🔹 [edgar-alvarez-checo](https://github.com/edgar-alvarez-checo/edgar-alvarez-checo)</b></summary>
   <p>📝 No description</p>
   <p>⭐ Stars: 3 &nbsp;&nbsp;💻 Language: Unknown &nbsp;&nbsp;🕒 Updated: 2025-12-26</p>
