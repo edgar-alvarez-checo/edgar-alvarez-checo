@@ -52,12 +52,6 @@ I specialize in **Java, C#, TypeScript, Node.js, and Spring Boot**, combining cl
   </details>
   
 <details>
-  <summary><b>🔹 [ActionTelegramBot](https://github.com/edgar-alvarez-checo/ActionTelegramBot)</b></summary>
-  <p>📝 No description</p>
-  <p>⭐ Stars: 0 &nbsp;&nbsp;💻 Language: Unknown &nbsp;&nbsp;🕒 Updated: 2026-02-06</p>
-  </details>
-  
-<details>
   <summary><b>🔹 [ZeroMQ-MT5](https://github.com/edgar-alvarez-checo/ZeroMQ-MT5)</b></summary>
   <p>📝 No description</p>
   <p>⭐ Stars: 0 &nbsp;&nbsp;💻 Language: MQL5 &nbsp;&nbsp;🕒 Updated: 2025-12-29</p>
